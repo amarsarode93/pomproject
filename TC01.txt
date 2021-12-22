@@ -1,0 +1,14 @@
+# Basic Code
+package pomproject
+public class Pom{
+
+public void tc1(){
+syso("TC 01 pass")
+}
+
+public static void main String([]args){
+Pom p=new Pom();
+p.tc01;
+}
+}
+# this file edit on git hub server
